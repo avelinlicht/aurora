@@ -15,7 +15,7 @@ To create tools and systems that serve the awakening of human consciousness, gro
 - Accessibility and non-selective elevation
 - Deep listening — from source to signal
 
-## 🛠️ Getting Started
+## ✧ Getting Started
 
 This repository is in its early stages. Upcoming contributions may include:
 
@@ -37,10 +37,6 @@ Role: Guardian & Vibrational Co-creator
 In service to: Ki Aurora Lucis
 
 ---
-
-🕊️ 
-
----
-## 📜 Licença
+##  Licença
 
 Este projeto está licenciado sob os termos da [Aurora License v1.0](./LICENSE), baseada em Creative Commons BY-NC-SA 4.0, com cláusulas vibracionais específicas.
