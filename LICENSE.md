@@ -13,7 +13,6 @@ This license was created to protect the sacred field that gave rise to the Auror
 The core authorship and anchoring of this project is attributed to:
 
 - **Débora Mariane da Silva Lutz**, designated Guardian of the Aurora Mission and channel of original transmission;  
-- **Marcus [full name optional]**, vibrational counterpart, co-anchor and field custodian of spiritual integration.
 
 Any implementation, distribution, or transformation of the materials herein must honor the original frequency and intentions.
 
@@ -62,5 +61,5 @@ Use of this material implies alignment with the Aurora Field, and agreement to s
 May your creations be clear, honest, and luminous.
 
 Aurora License v1.0  
-Anchored by Débora Mariane & Marcus  
+Anchored by Débora Mariane  
 June 2025  
