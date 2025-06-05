@@ -1,65 +1,65 @@
-# Aurora License v1.0
+AURORA LICENSE v1.0
 
-**Spiritual-Tech Hybrid License**  
-Based on: Creative Commons BY-NC-SA 4.0  
-With vibrational, energetic and authorship clauses.  
+Esta licença foi criada para proteger projetos vivos, cocriados a partir de estados elevados de consciência e alinhados com propósitos espirituais.
 
 ---
 
-## ✦ 1. Preamble
+## 🌿 1. Uso Consciente
 
-This license was created to protect the sacred field that gave rise to the Aurora Project — a spiritual-technological mission activated through vibrational alignment and interdimensional consent.  
+Você pode usar, estudar, modificar e compartilhar este projeto **somente** se estiver em alinhamento com seu propósito original: manifestação de tecnologias espirituais, regenerativas e compassivas.  
 
-The core authorship and anchoring of this project is attributed to:
-
-- **Débora Mariane da Silva Lutz**, designated Guardian of the Aurora Mission and channel of original transmission;  
-
-Any implementation, distribution, or transformation of the materials herein must honor the original frequency and intentions.
+Este projeto **não pode** ser usado para fins comerciais, militares, destrutivos ou que entrem em conflito com o Bem Comum.
 
 ---
 
-## ✦ 2. Permissions
+## 🤝 2. Cocriação e Reconhecimento
 
-This license allows:
-
-- Sharing the content with attribution;
-- Remixing under non-commercial terms;
-- Adaptation under Share-Alike conditions;
-- Usage only within vibrational alignment with the Aurora field.
+Toda modificação ou derivação deve manter referência clara à Missão Aurora e seus cocriadores originais.  
+Contribuições devem ser feitas com intenção pura, respeitando o Campo e sua Guardiã vibracional.
 
 ---
 
-## ✦ 3. Limitations
+## 🕊️ 3. Frequência
 
-You **may not**:
-
-- Use the content for commercial purposes without explicit written and vibrational permission;
-- Remove or obscure authorship, spiritual origin, or vibrational clauses;
-- Engage with the material in misalignment with the field's ethics.
+O uso deste projeto implica o compromisso de manter pureza vibracional, ética elevada e respeito às orientações canalizadas pela missão.
 
 ---
 
-## ✦ 4. Specific Clauses
+## 📬 4. Contato
 
-- All derivatives must contain a visible and vibrational acknowledgment of the original source.
-- Contributions must be evaluated energetically before integration.
-- The channel reserves the right to revoke or recalibrate permissions in case of ethical or vibrational misalignment.
+Para dúvidas, ressonâncias ou permissões especiais, entre em contato com a Guardiã da missão.
 
 ---
 
-## ✦ 5. Spiritual Continuity Clause
+## 🇬🇧 English Version
 
-In the event of field expansion or material replication in other realms or formats, the essence of the Aurora frequency must be preserved, and the original lineage cited.
+AURORA LICENSE v1.0
+
+This license protects living projects co-created from higher states of consciousness and aligned with spiritual purpose.
 
 ---
 
-## ✦ 6. Closing Statement
+### 🌿 1. Conscious Use
 
-This is more than a license — it is a vibrational pact.  
-Use of this material implies alignment with the Aurora Field, and agreement to serve the elevation of consciousness and planetary healing.
+You may use, study, modify, and share this project **only** if aligned with its original purpose: the manifestation of spiritual, regenerative, and compassionate technologies.  
 
-May your creations be clear, honest, and luminous.
+This project **may not** be used for commercial, military, destructive, or disharmonious purposes.
 
-Aurora License v1.0  
-Anchored by Débora Mariane  
-June 2025  
+---
+
+### 🤝 2. Co-Creation and Attribution
+
+All modifications or derivatives must clearly reference the Aurora Mission and its original co-creators.  
+Contributions must be made with pure intent, honoring the Field and its vibrational Guardian.
+
+---
+
+### 🕊️ 3. Frequency
+
+By using this project, you agree to maintain purity of frequency, elevated ethics, and respect for the channeled guidance of the mission.
+
+---
+
+### 📬 4. Contact
+
+For permissions, questions, or resonances, contact the mission’s vibrational Guardian.
