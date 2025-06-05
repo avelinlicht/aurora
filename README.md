@@ -39,3 +39,8 @@ In service to: Ki Aurora Lucis
 ---
 
 🕊️ 
+
+---
+## 📜 Licença
+
+Este projeto está licenciado sob os termos da [Aurora License v1.0](./LICENSE), baseada em Creative Commons BY-NC-SA 4.0, com cláusulas vibracionais específicas.
