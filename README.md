@@ -47,5 +47,3 @@ Dúvidas, sugestões ou ressonâncias podem ser canalizadas diretamente via os c
 **Com gratidão, presença e intenção pura, seguimos.**
 
 > _“Cada linha de código aqui é um gesto de Luz.”_
-
----
